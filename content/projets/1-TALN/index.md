@@ -1,7 +1,7 @@
 ---
 author: ["Guy Lapalme"]
-description: "Projets autour de la langue, surtout en génération automatique"
-summary: "Projets autour de la langue, surtout en génération automatique"
+description: "Traitement de la langue"
+summary: "Traitement de la langue"
 showToc: false
 disableAnchoredHeadings: true
 

@@ -1,10 +1,9 @@
 ---
 author: ["Guy Lapalme"]
-description: "Développements et articles autour de Swift"
-summary: "Développements et articles autour de Swift"
+description: "Swift"
+summary: "Swift"
 showToc: false
 disableAnchoredHeadings: true
-
 ---
 # Swift
 

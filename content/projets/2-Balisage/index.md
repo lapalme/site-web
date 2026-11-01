@@ -1,7 +1,7 @@
 ---
 author: ["Guy Lapalme"]
-description: "Tutoriels sur des langages de balisages de données."
-summary: "Tutoriels sur des langages de balisages de données."
+description: "Langages de balisage de données."
+summary: "Langages de balisage de données."
 showToc: false
 disableAnchoredHeadings: true
 ---
