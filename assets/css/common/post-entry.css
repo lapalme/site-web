@@ -57,7 +57,7 @@
 }
 
 .entry-content {
-    margin: 20px 10px;
+    margin: 10px 10px;
     color: var(--secondary);
     font-size: var(--entrysize);
     line-height: var(--lineheight);
