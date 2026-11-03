@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Guy Lapalme
           subtitle: "Depuis 2019, je suis professeur émérite de l'<a href='https://www.umontreal.ca'><u>Université de Montréal</u></a>.  J'y ai enseigné pendant 40 ans au <a href='https://www.iro.umontreal.ca'><u>Département d'informatique et de recherche opérationnelle</u></a> et oeuvré principalement en traitement de la langue au sein du laboratoire <a href='https://rali.iro.umontreal.ca/rali/fr'><u>RALI</u></a>. Jusqu'en septembre 2026, j'étais le responsable académique du projet <a href='https://mona.iro.umontreal.ca'><u>MONA</u></a>.<br/><br/>
-          Since 2019, I am emeritus professor from Université de Montréal. I worked mainly in Natural Language Processing."
+          Since 2019, I am emeritus professor from Université de Montréal. I worked mainly in Natural Language Processing at <a href='https://rali.iro.umontreal.ca/rali/en'><u>RALI</u></a>."
           imageUrl: Guy Lapalme.jpg
           imageWidth: 200
           imageHeight: 175
