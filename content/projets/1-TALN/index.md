@@ -12,7 +12,7 @@ J’ai travaillé sur le traitement de la langue naturelle dans le cadre du labo
 
 ## Génération de texte
 
-Mes travaux en génération de textes ont débuté dans les années 1980 et ont surtout porté sur la génération de textes à partir de données, mais aussi sur la traduction et la génération de résumés. 
+Mes travaux en génération de textes ont débuté dans les années 1980 et ont surtout porté sur la génération de textes à partir de données (*Data2Text*), mais aussi sur la traduction et la génération de résumés. 
 
 J'ai écrit récemment [un texte qui décrit cette approche](https://arxiv.org/pdf/2311.14808) qui offre un contrôle total sur la sortie contrairement aux grands modèles de langues qui peuvent être plus difficiles à contrôler. Cette méthode est opérationalisée dans deux systèmes partageant le même formalisme d'entrée.
 
@@ -37,8 +37,6 @@ J'ai écrit récemment [un texte qui décrit cette approche](https://arxiv.org/p
   
 ## `GoPhi` : un verbalisateur d'AMR
 
-Traitement d'expressions AMR. 
-
 * Transformation d'AMR en logique du premier ordre avec Prolog, avec appel à `jsRealB` pour la réalisation en anglais. [Page GitHub](https://github.com/rali-udem/gophi) [Document qui explique la méthode](https://github.com/lapalme/gophi/blob/master/documentation/GoPhi.pdf)
 * Utilisation de `pyrealb` pour la transformation de l'AMR en logique et la réalisation en anglais. [Page GitHub](https://github.com/lapalme/gophipy) [Document qui explique la méthode](https://github.com/lapalme/gophipy/blob/main/Paper/GoPhiPy.pdf)
 * Calcul de la représentation sémantique correspondant à une expression AMR: [projet GitHub](https://github.com/lapalme/AMR-Semantics)
@@ -53,10 +51,18 @@ Traitement d'expressions AMR.
 
 ## Affichage de structures de dépendances
 
-Les analyseurs en dépendances (notamment [Stanza](https://stanfordnlp.github.io/stanza/index.html)) et les fichiers [Universal Dependencies](https://universaldependencies.org) (UD) utilisent des fichiers en format `CoNLL-U`. J'ai développé un outil pour en afficher la structure. 
-* [Affichage d'une structure](https://www.iro.umontreal.ca/~lapalme/ShowUD/)
+Les analyseurs en dépendances (notamment [Stanza](https://stanfordnlp.github.io/stanza/index.html)) et les fichiers [Universal Dependencies](https://universaldependencies.org) (UD) utilisent des fichiers en format `CoNLL-U`. 
+ 
+* [Affichage d'une structure UD](https://www.iro.umontreal.ca/~lapalme/ShowUD/)
+* Recherche de tokens dans un fichier CONLL-U qui satisfont certaines propriétés: [UDgrep](https://rali.iro.umontreal.ca/JSrealB/current/demos/UDregenerator/UDgrep.html) 
 * [Affichage d'une UD et regénération avec `jsRealB`](https://rali.iro.umontreal.ca/JSrealB/current/demos/UDregenerator/UDregenerator-en.html)
 
 ## Traduction Bambara-Français
 
 Jeu linguistique basé sur un bitexte Bambara-Français. Il faut en déduire la traduction de mots et de phrases ainsi que répondre à quelques questions. Cet exercice été présenté dans un atelier sur le traitement de la langue pour un *camp d'informatique* organisé par le DIRO pour des cégépiens. [Page de l'activité](https://www.iro.umontreal.ca/~lapalme/SejourDecouverte2016/)
+
+## Autres projets
+ 
+* [Jeu web pour illustrer la génération d'expressions](https://www.iro.umontreal.ca/~lapalme/WebREG/index.php) en anglais ou en français pour identifier des objets les uns par rapport aux autres dans une micro-monde
+* [Application pour explorer les associations de mots](https://www.iro.umontreal.ca/~lapalme/Word-Associations/) dans le *Edinburgh Associate Thesaurus* et le *University of South Florida Association Norms*
+* [Exploration de WordNet](https://www.iro.umontreal.ca/~lapalme/WordNet-XML/) généré à partir d'une version XML
