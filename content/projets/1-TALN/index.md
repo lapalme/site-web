@@ -57,6 +57,11 @@ Les analyseurs en dépendances (notamment [Stanza](https://stanfordnlp.github.io
 * Recherche de tokens dans un fichier CONLL-U qui satisfont certaines propriétés: [UDgrep](https://rali.iro.umontreal.ca/JSrealB/current/demos/UDregenerator/UDgrep.html) 
 * [Affichage d'une UD et regénération avec `jsRealB`](https://rali.iro.umontreal.ca/JSrealB/current/demos/UDregenerator/UDregenerator-en.html)
 
+## Développement d'une application de dictionnaire de mots-croisés: 
+* [document](https://www.iro.umontreal.ca/~lapalme/Developpement-MCWiktionnaire/Developpement-MCWiktionnaire.html)
+* [Application MacOS](https://apps.apple.com/us/app/mcwiktionnaire/id1460386920)
+* [Application IOS](https://apps.apple.com/pl/app/mcwikti/id1475414629)
+
 ## Traduction Bambara-Français
 
 Jeu linguistique basé sur un bitexte Bambara-Français. Il faut en déduire la traduction de mots et de phrases ainsi que répondre à quelques questions. Cet exercice été présenté dans un atelier sur le traitement de la langue pour un *camp d'informatique* organisé par le DIRO pour des cégépiens. [Page de l'activité](https://www.iro.umontreal.ca/~lapalme/SejourDecouverte2016/)

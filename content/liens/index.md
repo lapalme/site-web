@@ -4,14 +4,17 @@ description: "Liens utiles et pratiques"
 ---
 *La majorité de ces liens pointent sur des outils dans mes fichiers web.*
 
+## Technologie internet
+-  [Création d'un site web statique avec Hugo](https://www.iro.umontreal.ca/~lapalme/hugo-tuto/README.html)
+-  [Exemples de fichiers HTML utilisant du Javascript](http://www.iro.umontreal.ca/~lapalme/Programmes/Javascript/)
+-  [Exemples de programmes serveurs web en CGI](http://www.iro.umontreal.ca/~lapalme/ift3225/Dynamique/) 
+-  [Validation de fichiers JSON avec une grammaire inspirée de *Relax-NG forme compacte*](https://github.com/rali-udem/json-rnc) .
+-  [Minirails](http://www.iro.umontreal.ca/~lapalme/MiniRails/index.html) Description et utilisation de « minirails »: une version simplissime de Ruby on Rails
+
 ## Programmation
--   [Exemples de fichiers HTML utilisant du Javascript](http://www.iro.umontreal.ca/~lapalme/Programmes/Javascript/)
--   [Exemples de programmes serveurs web en CGI](http://www.iro.umontreal.ca/~lapalme/ift3225/Dynamique/) 
--   [Validation de fichiers JSON avec une grammaire inspirée de *Relax-NG forme compacte*](https://github.com/rali-udem/json-rnc) .
 -   [Tutoriel SwiftUI](http://www-labs.iro.umontreal.ca/~lapalme/Swift-Fundamentals/SwiftUI%20Fundamentals.html)
 -   [Tutoriel sur la programmation orientée-objet en Java](http://www.iro.umontreal.ca/~lapalme/BodiesInASetting/)
     Description d'une application graphique en Java illustrant les principes de la programmation orientée-objet.
--   [Minirails](http://www.iro.umontreal.ca/~lapalme/MiniRails/index.html) Description et utilisation de « minirails »: une version simplissime de Ruby on Rails
 -   [Algorithms: a functional approach](http://www.iro.umontreal.ca/~lapalme/Algorithms-functional.html) Site web du livre : Algorithms: A Functional Programming Approach
 -   [Mode Emacs pour l'indentation de Haskell](http://www.iro.umontreal.ca/~lapalme/layout/index.html) Fichiers Emacs-Lisp et description du principe d'un mode d'édition en tenant compte du « layout-rule » utilisé en MIranda ou en Haskell
 -   [Introduction simplifiée à Emacs](http://www.iro.umontreal.ca/~lapalme/introductionEmacs.shtml) Court tutoriel les commandes de base en Emacs
